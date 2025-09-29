@@ -3,7 +3,7 @@ A simple RESTful URL Shortener Service built with Spring Boot.
 This project allows users to shorten long URLs and retrieve the original URLs using short codes.
 
 📌 Features
-. POST /shorten
+ ** POST /shorten
    . Accepts a long URL as JSON in the request body.
    . Returns a unique short code for the URL.
    
